@@ -1,9 +1,20 @@
 #include<stdio.h>
 int main()
 {
-    printf("Hello");
-    printf("Hello");
-    printf("Hello");
-    printf("Hello");
+   int i=0;
+while(i<10)
+{
+    i+=2;
+    printf("%d\n",i);
+}
+
+  
     return 0;
+}
+#include<stdio.h>
+int main()
+{
+    {
+
+    }
 }
